@@ -1,1 +1,1 @@
-# eccomerce-front
+# ecommerce-front
